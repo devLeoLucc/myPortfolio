@@ -1,0 +1,43 @@
+.single__service {
+  background: #132347;
+  padding: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  border-bottom: 1px solid #7865ff;
+  transition: .3s;
+}
+
+.service__icon {
+  color: #7865ff;
+  font-size: 2.2rem;
+}
+
+.services__top h6 {
+  color: #7865ff;
+  margin-bottom: 15px;
+}
+
+.single__service h2 {
+  font-size: 1.4rem;
+  margin: 15px 0;
+}
+
+.single__service p {
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.single__service:hover {
+  transform: translateY(-15px);
+}
+
+@media only screen and (max-width: 992px) {
+  .single__service h2 {
+    font-size: 1.3rem;
+  }
+
+  .single__service p {
+    font-size: .8rem;
+    line-height: 28px;
+  }
+}

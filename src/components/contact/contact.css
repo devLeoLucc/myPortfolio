@@ -1,0 +1,28 @@
+.single__info-box {
+  background: #132347;
+  padding: 20px;
+  border-radius: 5px;
+  border-bottom: 1px solid #7865ff;
+  margin-bottom: 35px;
+}
+
+.single__info-box p {
+  font-weight: 300;
+  margin-top: 10px;
+  font-size: .9rem;
+  margin-bottom: 0;
+}
+
+.single__info-box h6 {
+  font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 992px) {
+  .single__info-box h6 {
+    font-size: .8rem;
+  }
+
+  .single__info-box p {
+    font-size: .7rem;
+  }
+}

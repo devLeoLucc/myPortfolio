@@ -1,0 +1,79 @@
+.hire__btn {
+  background: #ffffff !important;
+  color: #0e1b31 !important;
+}
+
+.hire__btn a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.main__title span {
+  color: #7865ff;
+}
+
+.main__title {
+  font-weight: 600;
+}
+
+.main__btns .btn {
+  padding: 5px 20px;
+}
+
+.main__btns .btn:last-child {
+  background: #7865ff !important;
+  color: #ffffff;
+}
+
+.main__img {
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+  background-color: #7865ff;
+  margin-left: auto;
+}
+
+.main__img img {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.main__section {
+  padding-top: 150px;
+}
+
+.main__content p {
+  line-height: 30px;
+  font-weight: 300;
+}
+
+@media only screen and (max-width: 992px) {
+  .main__img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .main__content p {
+    font-size: .8rem;
+  }
+
+  .main__btns button {
+    display: block;
+    padding: 5px 25px;
+    font-size: .8rem;
+  }
+}
+
+@media only screen and (max-widtH: 760px) {
+  .main__img {
+    margin: auto;
+  }
+
+  .main__content {
+    margin-bottom: 50px;
+  }
+
+  .main__title {
+    font-size: 1.5rem;
+  }
+}
