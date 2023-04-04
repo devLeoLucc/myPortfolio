@@ -2,14 +2,11 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://devLeoLucc.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",

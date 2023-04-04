@@ -53,7 +53,7 @@ export function MainSection() {
 
           <Col lg='6' md='6'>
             <div className="main__img">
-              <img src={AvatarImg} alt="" className='w-100' />
+              <img src={AvatarImg} alt="" />
             </div>
           </Col>
         </Row>
