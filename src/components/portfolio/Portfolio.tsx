@@ -8,7 +8,7 @@ const portfolioData = [
   {
     imgUrl: img4,
     title: 'NLW / Setup',
-    url: '#'
+    url: 'https://github.com/devLeoLucc'
   }
 ]
 

@@ -22,7 +22,7 @@ export function Contact() {
               
               <div className="single__info-box w-60">
                 <h6>Phone</h6>
-                <p>+55 12 98156 4561</p>
+                <p>+55 12 97812 3125</p>
               </div>
             </div>
 

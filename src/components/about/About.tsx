@@ -60,7 +60,7 @@ export function About() {
                     <h6 className='mb-3'>Connect with me:</h6>
                     <span><a target='_blank' href="https://github.com/devLeoLucc"><i className="ri-github-line"></i></a></span>
                     <span><a target='_blank' href="#"><i className="ri-instagram-line"></i></a></span>
-                    <span><a target='_blank' href="https://wa.me/5512981564561"><i className="ri-whatsapp-line"></i></a></span>
+                    <span><a target='_blank' href="https://wa.me/5512978123125"><i className="ri-whatsapp-line"></i></a></span>
                     <span><a target='_blank' href="https://www.linkedin.com/in/leonardo-lucchesi-366908220/"><i className="ri-linkedin-line"></i></a></span>
                   </div>
                 </div>
